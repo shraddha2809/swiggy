@@ -1,0 +1,134 @@
+.row{display: flex;
+    justify-items:center;
+    padding: 0px; 
+width: 100%;
+  }
+  .box{
+      flex-wrap: wrap;
+  padding: 10px;
+      
+      width: 800px;
+  height: 80px;
+  background-color: white;
+  }
+  .box-1{min-height: 80px;
+  }
+  .box-2{min-height: 80px;
+  }
+  .box-2{
+      display: flex;
+
+  }
+  .col{
+    flex-wrap: wrap;
+justify-content: center;
+    padding: 10px;
+        width: 90px;
+        align-items: flex-end;
+    position: relative;
+    left: 404px;
+    top: 10PX;
+    background-color: white;
+    font-size:20px ;
+  }
+  .show{
+    position: relative;
+    flex: 1;flex-wrap: wrap;
+}
+  .wow{flex-wrap: wrap;
+      cursor: pointer;
+      text-align: center;
+      display:inline-block;
+      background-color: rgb(235, 146, 45);
+      color: white;
+      position: relative;
+      top: 122px;
+  
+      height: 46px;
+font-size: 20px;
+width: 76px;
+
+
+
+  }.item{display: flex;
+    justify-items:center;
+    padding: 0px; 
+  
+  }
+  .team{ position: relative;
+    top: 106px;
+      flex-wrap: wrap;
+  padding-top: 90px;
+  border-radius: 30px;
+      width: 800px;
+  height: 341px;
+  background-color: white;
+  margin-right: 30px;
+  }
+  .team-1{min-height: 341px;
+  }
+  .team-2{min-height: 341px;
+  }
+  .team-2{min-height: 341px;
+  }
+  .eat:hover{
+    color: yellow;
+  }
+  .col:hover{color: rgb(255, 169, 71);
+    display: block;
+    
+
+
+  }
+  .team:hover{ 
+    border-color: #0d0d0e;
+    box-shadow: 0 4px 7px 0 rgba(15, 15, 15, 0.6)
+  }
+  .enter{ display: flex;
+  
+  }
+  .go{
+    height: 200px; width: 800px;
+    border: 1px solid;
+
+  }
+  
+  .flow{
+      display: flex;
+  }
+  .well{
+      padding: 100px;
+      
+      height: 200px;
+      width: 800px;
+      position: relative;
+      top: 191px;
+      
+      background-color: black;
+
+  }
+  ul{list-style: none;
+      font-size: 20px;
+      align-items: center;
+color: white;
+
+  }
+  .yo{align-items: center;
+color: rgb(158, 158, 158);
+position: relative;
+left: 30px;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+letter-spacing: 2px;
+}
+.yo:hover{
+    color: gray;
+    transition: transform .2s;
+    margin: 0 auto;
+    transform: scale(1.5);
+}
+.we:hover{
+  border-color: #d3d5df;
+    box-shadow: 0 4px 7px 0 rgba(218,220,230,.6) 
+}
+
+

@@ -1,0 +1,149 @@
+.html{width: 100%;
+
+}
+
+.header{display: flex;
+ justify-content: center;width: 100%;
+}
+.home{
+    
+
+    
+    width: 800px;
+height: 450px;
+
+}
+.home-1{min-height: 200px;
+
+
+
+
+}
+.home-2{
+    min-height: 450px;
+    align-items: stretch;
+    
+}
+/*.row.div{
+    justify-content: flex-end;
+    font-size: 20px;
+    align-items: stretch;
+
+    position: relative;
+    left: 500px;
+    bottom: 10px;
+
+}*/.box{display: flex;width:100%; 
+
+  padding: 0px; justify-content: center;
+
+}
+.row{
+    
+padding: 10px;
+    border: 1px solid;
+    width: 800px;
+height: 385px;
+background-color: rgb(32, 16, 4);
+align-items: stretch;
+}
+.row-1{min-height: 200px;
+
+
+
+}
+.row-2{
+    min-height: 300px;
+
+    
+}
+.row-3{
+    min-height: 300px;
+    
+    
+}
+.top{display: flex;
+    justify-items:center;
+    padding: 0px; 
+    justify-content: center;
+    width: 100%;
+  }
+  .mp{
+      
+  padding: 10px; 
+      width: 800px;
+  height: 350px;
+  
+  }
+  .mp-1{min-height: 300px;
+}
+.mp-2{min-height: 300px;}
+.show{
+    position: relative;
+    flex: 1;flex-wrap: wrap;
+}
+  .wow{
+      cursor: pointer;
+      text-align: center;
+      display:inline-block;
+      background-color: rgb(226, 139, 57);
+      color: white;
+      position: relative;
+      top:-83px;
+      right: 36px;
+      height: 69px;
+font-size: 20px;
+border-radius: 10px;
+width: 109px;
+
+  }
+  .flow{
+      display: flex;width: 100%;
+  }
+  .well{
+      padding: 100px;
+      
+      height: 200px;
+      width: 800px;
+      position: relative;
+      top: 191px;
+      
+      background-color: black;
+
+  }
+  ul{list-style: none;
+      font-size: 20px;
+      align-items: center;
+color: white;
+
+  }
+  .yo{align-items: center;
+color: rgb(158, 158, 158);
+position: relative;
+left: 30px;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+letter-spacing: 2px;
+}
+.yo:hover{
+    color: gray;
+    transition: transform .2s;
+    margin: 0 auto;
+    transform: scale(1.5);
+}
+.el:hover{
+    color: rgba(216, 108, 45, 0.842);
+    display: block;
+}
+.lo:hover{
+    border-color: #d3d5df;
+    box-shadow: 0 4px 7px 0 rgba(218,220,230,.6) 
+}
+.stay:hover{
+    color:rgb(206, 83, 38) ;
+    display: block;
+}
+.sta:hover{
+    color:rgb(206, 83, 38) ;
+    display: block;
+}
+
